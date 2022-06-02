@@ -3,14 +3,31 @@
 
 .container{
     border: 2px solid black;
+    height: 100vh;
 }
 
 .row{
     border: 2px solid red;
     margin: 3px;
+    height: 100%;
+    
 }
 
-.col{
+/* .col{
     border: 2px solid green;
+} */
+
+.pink{
+    background-color: pink;
 }
 
+.green{
+    background-color: green;
+}
+.grey{
+    background-color: grey;
+}
+
+.blue{
+    background-color: blue;
+}
